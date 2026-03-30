@@ -56,7 +56,7 @@ Focused on Web Security, Exploit Development, and Building Hacking Tools.
 
 ---
 
-# 🔐 Cyber Security Arsenal
+# 🔐 Cyber Security Tools
 
 <p>
 
