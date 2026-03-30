@@ -97,16 +97,6 @@ Focused on Web Security, Exploit Development, and Building Hacking Tools.
 • Reverse Engineering  
 • Red Team Techniques  
 
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YogaRmdn&label=Visitors&color=0e75b6&style=flat" />
-</p>
-
----
-
 # ⚡ Hacker Mindset
 
 > "Hack the system. Understand the system. Secure the system."
