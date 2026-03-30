@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Pentester;Python+Tool+Developer;Red+Team+Learner;Bug+Bounty+Hunter" />
 </p>
 
-<h1 align="center">👨‍💻 Yoga Ramadhan</h1>
+<h1 align="center">👨‍💻 Yoga Ramadani</h1>
 <h3 align="center">Cyber Security • Red Team • Security Researcher</h3>
 
 <p align="center">
