@@ -48,6 +48,14 @@ Focused on Web Security, Exploit Development, and Building Hacking Tools.
 
 ---
 
+## 💻 My Framework
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,laravel,react,flutter,tailwind,bootstrap" />
+</p>
+
+---
+
 # 🔐 Cyber Security Arsenal
 
 <p>
