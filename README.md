@@ -22,7 +22,7 @@ Focused on Red Teaming, Web Security, and Building Hacking Tools with Python.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,mysql,js,html,css" />
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,python,bash,git,github,mysql,js,html,css" />
 
 </p>
 
