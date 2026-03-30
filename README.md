@@ -1,34 +1,36 @@
-<h1 align="center">👨‍💻 Yoga Ramadhan</h1>
-<h3 align="center">Cyber Security | Red Team | Python & Exploit Developer</h3>
+<h1 align="center">Hi 👋, I'm Yoga Ramadani</h1>
+<h3 align="center">Cyber Security Enthusiast | Pentester | Python Tool Developer</h3>
 
 <p align="center">
-Pentester • Security Researcher • Tool Developer
+Focused on Red Teaming, Web Security, and Building Hacking Tools with Python.
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
 🔐 Cyber Security Enthusiast  
-💻 Red Team & Penetration Testing  
-🐍 Python Security Tools Developer  
-⚡ Building Automation Tools for Hacking  
-🌐 Web Application Security Research  
-🐧 Kali Linux User  
+🐍 Python Programmer  
+💻 Building Hacking Tools & Automation  
+🛡️ Learning Red Team & Penetration Testing  
+🌐 Web Security Researcher  
+⚡ Using Kali Linux for Security Testing  
 
 ---
 
-## ⚙️ Programming & Technologies
+## 🧰 Tools & Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,go,linux,bash,git,github,mysql,js,html,css" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,mysql,js,html,css" />
+
 </p>
 
 ---
 
-## 🛠️ Security Tools Arsenal
+## 🛠 Security Tools I Use
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge" />
@@ -52,11 +54,11 @@ Pentester • Security Researcher • Tool Developer
 
 ## 🚀 Current Focus
 
-• Building Custom Hacking Tools with Python  
-• Web Vulnerability Scanning Automation  
-• Exploit Development  
-• Red Team Techniques  
-• Network Security Analysis  
+- Building Python Hacking Tools
+- Web Vulnerability Scanning
+- Exploit Development
+- Automation for Pentesting
+- Learning Advanced Networking
 
 ---
 
@@ -70,22 +72,21 @@ Pentester • Security Researcher • Tool Developer
 
 ---
 
-## 🔬 Security Interests
+## 🧠 Currently Learning
 
-🕵️ Web Pentesting  
-🛜 Network Attacks & Defense  
-💣 Exploit Development  
-🧠 Reverse Engineering  
-⚔️ Red Team Operations  
+🐍 Advanced Python for Security  
+🌐 Web Exploitation  
+🛜 Networking & Packet Analysis  
+💣 Red Team Techniques  
 
 ---
 
-## 🎯 Mission
+## 🔥 My Goal
 
-Become a Professional Cyber Security Specialist & Red Team Operator.
+Become a Professional Red Team Operator and Security Researcher.
 
 ---
 
 ## ⚡ Fun Fact
 
-I prefer creating my own hacking tools rather than relying only on existing tools.
+I love building my own hacking tools instead of relying on existing tools.
