@@ -71,10 +71,6 @@ Focused on Web Security, Exploit Development, and Building Hacking Tools.
 
 ---
 
-# 🎯 Current Mission
-
----
-
 # 📊 GitHub Stats
 
 <p>
