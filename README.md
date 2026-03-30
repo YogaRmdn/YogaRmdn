@@ -43,7 +43,7 @@ Focused on Web Security, Exploit Development, and Building Hacking Tools.
 ## ⚙️ Dev / DevOps Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,nginx,vscode,vim" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,sqlite,nginx,vscode" />
 </p>
 
 ---
