@@ -74,6 +74,8 @@ Focused on Web Security, Exploit Development, and Building Hacking Tools.
 <img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JohnTheRipper-darkred?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Aircrack--ng-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nuclei-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Xray-red?style=for-the-badge" />
 
 </p>
 
