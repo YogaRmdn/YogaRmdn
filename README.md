@@ -1,92 +1,114 @@
-<h1 align="center">Hi 👋, I'm Yoga Ramadani</h1>
-<h3 align="center">Cyber Security Enthusiast | Pentester | Python Tool Developer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Pentester;Python+Tool+Developer;Red+Team+Learner;Bug+Bounty+Hunter" />
+</p>
+
+<h1 align="center">👨‍💻 Yoga Ramadhan</h1>
+<h3 align="center">Cyber Security • Red Team • Security Researcher</h3>
 
 <p align="center">
-Focused on Red Teaming, Web Security, and Building Hacking Tools with Python.
+Focused on Web Security, Exploit Development, and Building Hacking Tools.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
 🔐 Cyber Security Enthusiast  
-🐍 Python Programmer  
-💻 Building Hacking Tools & Automation  
-🛡️ Learning Red Team & Penetration Testing  
-🌐 Web Security Researcher  
-⚡ Using Kali Linux for Security Testing  
+🐍 Python Tool Developer  
+⚔️ Learning Red Team Techniques  
+🛡️ Web Application Pentester  
+🐧 Kali Linux User  
+💣 Exploit & Automation Developer  
 
 ---
 
-## 🧰 Tools & Technologies
+# 🧰 Tech Stack
 
-<p align="left">
+## 🐧 Operating Systems
 
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,python,bash,git,github,mysql,js,html,css" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arch,debian" />
 </p>
 
 ---
 
-## 🛠 Security Tools I Use
+## 👨‍💻 Programming Languages
 
-<p align="left">
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,go,js,php,bash" />
+</p>
 
-<img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge" />
+---
+
+## ⚙️ Dev / DevOps Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,nginx,vscode,vim" />
+</p>
+
+---
+
+# 🔐 Cyber Security Arsenal
+
+<p>
+
+<img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=linux" />
 <img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SQLMap-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JohnTheRipper-darkred?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hashcat-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Aircrack--ng-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FFUF-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gobuster-darkgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dirsearch-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Amass-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Subfinder-darkgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FFUF-grey?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Dirsearch-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gobuster-darkgrey?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KaliLinux-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hashcat-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JohnTheRipper-darkred?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Aircrack--ng-grey?style=for-the-badge" />
 
 </p>
 
 ---
 
-## 🚀 Current Focus
-
-- Building Python Hacking Tools
-- Web Vulnerability Scanning
-- Exploit Development
-- Automation for Pentesting
-- Learning Advanced Networking
+# 🎯 Current Mission
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YogaRmdn&theme=dark&hide_border=true&include_all_commits=true)
+<p align="center">
 
-![](https://streak-stats.demolab.com/?user=YogaRmdn&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=YogaRmdn&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YogaRmdn&theme=dark&hide_border=true&layout=compact)
+<img src="https://streak-stats.demolab.com/?user=YogaRmdn&theme=tokyonight&hide_border=true" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogaRmdn&layout=compact&theme=tokyonight&hide_border=true" />
 
-## 🧠 Currently Learning
-
-🐍 Advanced Python for Security  
-🌐 Web Exploitation  
-🛜 Networking & Packet Analysis  
-💣 Red Team Techniques  
+</p>
 
 ---
 
-## 🔥 My Goal
+# 🧪 Currently Learning
 
-Become a Professional Red Team Operator and Security Researcher.
+• Advanced Python for Exploitation  
+• Network Attacks & Defense  
+• Web Application Security  
+• Reverse Engineering  
+• Red Team Techniques  
 
 ---
 
-## ⚡ Fun Fact
+# 👀 Profile Visitors
 
-I love building my own hacking tools instead of relying on existing tools.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YogaRmdn&label=Visitors&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# ⚡ Hacker Mindset
+
+> "Hack the system. Understand the system. Secure the system."
+
+---
