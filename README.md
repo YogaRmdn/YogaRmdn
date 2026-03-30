@@ -77,7 +77,7 @@ Focused on Web Security, Exploit Development, and Building Hacking Tools.
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p>
 
 <img src="https://streak-stats.demolab.com/?user=YogaRmdn&theme=tokyonight&hide_border=true" />
 
