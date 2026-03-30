@@ -79,23 +79,11 @@ Focused on Web Security, Exploit Development, and Building Hacking Tools.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YogaRmdn&show_icons=true&theme=tokyonight&hide_border=true" />
-
 <img src="https://streak-stats.demolab.com/?user=YogaRmdn&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogaRmdn&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
-
-# 🧪 Currently Learning
-
-• Advanced Python for Exploitation  
-• Network Attacks & Defense  
-• Web Application Security  
-• Reverse Engineering  
-• Red Team Techniques  
 
 # ⚡ Hacker Mindset
 
