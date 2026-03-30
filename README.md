@@ -27,7 +27,7 @@ Focused on Web Security, Exploit Development, and Building Hacking Tools.
 ## 🐧 Operating Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arch,debian" />
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arch,debian,mint" />
 </p>
 
 ---
