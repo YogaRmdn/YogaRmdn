@@ -1,42 +1,50 @@
-<h1 align="center">Hi 👋, I'm Yoga Ramadhan</h1>
-<h3 align="center">Cyber Security Enthusiast | Pentester | Python Tool Developer</h3>
+<h1 align="center">👨‍💻 Yoga Ramadhan</h1>
+<h3 align="center">Cyber Security | Red Team | Python & Exploit Developer</h3>
 
 <p align="center">
-Focused on Red Teaming, Web Security, and Building Hacking Tools with Python.
+Pentester • Security Researcher • Tool Developer
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
 🔐 Cyber Security Enthusiast  
-🐍 Python Programmer  
-💻 Building Hacking Tools & Automation  
-🛡️ Learning Red Team & Penetration Testing  
-🌐 Web Security Researcher  
-⚡ Using Kali Linux for Security Testing  
+💻 Red Team & Penetration Testing  
+🐍 Python Security Tools Developer  
+⚡ Building Automation Tools for Hacking  
+🌐 Web Application Security Research  
+🐧 Kali Linux User  
 
 ---
 
-## 🧰 Tools & Technologies
+## ⚙️ Programming & Technologies
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,mysql,js,html,css" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,go,linux,bash,git,github,mysql,js,html,css" />
 </p>
 
 ---
 
-## 🛠 Security Tools I Use
+## 🛠️ Security Tools Arsenal
 
-<p align="left">
+<p align="center">
 
-<img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SQLMap-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KaliLinux-blue?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JohnTheRipper-darkred?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hashcat-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Aircrack--ng-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Amass-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Subfinder-darkgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FFUF-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dirsearch-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gobuster-darkgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KaliLinux-blue?style=for-the-badge" />
 
 </p>
 
@@ -44,11 +52,11 @@ Focused on Red Teaming, Web Security, and Building Hacking Tools with Python.
 
 ## 🚀 Current Focus
 
-- Building Python Hacking Tools
-- Web Vulnerability Scanning
-- Exploit Development
-- Automation for Pentesting
-- Learning Advanced Networking
+• Building Custom Hacking Tools with Python  
+• Web Vulnerability Scanning Automation  
+• Exploit Development  
+• Red Team Techniques  
+• Network Security Analysis  
 
 ---
 
@@ -62,21 +70,22 @@ Focused on Red Teaming, Web Security, and Building Hacking Tools with Python.
 
 ---
 
-## 🧠 Currently Learning
+## 🔬 Security Interests
 
-🐍 Advanced Python for Security  
-🌐 Web Exploitation  
-🛜 Networking & Packet Analysis  
-💣 Red Team Techniques  
+🕵️ Web Pentesting  
+🛜 Network Attacks & Defense  
+💣 Exploit Development  
+🧠 Reverse Engineering  
+⚔️ Red Team Operations  
 
 ---
 
-## 🔥 My Goal
+## 🎯 Mission
 
-Become a Professional Red Team Operator and Security Researcher.
+Become a Professional Cyber Security Specialist & Red Team Operator.
 
 ---
 
 ## ⚡ Fun Fact
 
-I love building my own hacking tools instead of relying on existing tools.
+I prefer creating my own hacking tools rather than relying only on existing tools.
