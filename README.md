@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Focused on <b>Web Security</b>, <b>Exploit Development</b>, and building <b>hacking tools</b> in Python.
+  Focused on <b>Web Security</b>, <b>Fullstack Developer</b>, and building <b>hacking tools</b> in Python.
 </p>
 
 ---
@@ -85,7 +85,7 @@ motto     : "Hack the system. Understand the system. Secure the system."
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,php,cpp,c,cs,go,bash" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=python,js,php,cpp,c,cs,go" alt="Programming languages" />
 
 **Dev & DevOps**
 
