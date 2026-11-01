@@ -35,7 +35,7 @@ Focused on Web Security, Exploit Development, and Building Hacking Tools.
 ## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,php,c++" />
+<img src="https://skillicons.dev/icons?i=python,js,php,cpp,c,go" />
 </p>
 
 ---
