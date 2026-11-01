@@ -29,9 +29,7 @@ role      : Programmer • Pentester • Security Researcher
 company   : Decade Inc
 location  : Riau, Pekanbaru — Indonesia 🇮🇩
 portfolio : https://yoga-ramadani.netlify.app
-focus     : - Web Application Security & Bug Bounty
-            - Exploit Development & Red Teaming
-            - Python Automation & Security Tooling
+focus     : Web Application Security & Bug Bounty - Exploit Development & Red Teaming - Python Automation & Security Tooling
 motto     : "Hack the system. Understand the system. Secure the system."
 ```
 
